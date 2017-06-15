@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		B44FB2EA1ED8AF6900B99C2F /* FlowCytometry.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = FlowCytometry.py; sourceTree = "<group>"; };
+		B45E14031ECCC628006C532F /* first.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = first.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		B4579D611ECCC247002C1D83 = {
 			isa = PBXGroup;
 			children = (
+				B44FB2EA1ED8AF6900B99C2F /* FlowCytometry.py */,
+				B45E14031ECCC628006C532F /* first.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -177,6 +184,7 @@
 				B4579D6B1ECCC248002C1D83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
